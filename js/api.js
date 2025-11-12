@@ -1,5 +1,5 @@
 // Definimos la URL base de la API
-const API_BASE_URL = "https://my-books-mongodb.onrender.com:10000/api";
+const API_BASE_URL = "https://my-books-mongodb.onrender.com/api";
 
 /**
  * Función 'wrapper' para fetch que añade automáticamente
